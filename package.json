@@ -1,0 +1,21 @@
+{
+  "name": "financialassistant",
+  "version": "1.0.0",
+  "description": "BC22",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "cd ./backend && node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olha98/FinancialAssistant.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Olha98/FinancialAssistant/issues"
+  },
+  "homepage": "https://github.com/Olha98/FinancialAssistant#readme",
+  "dependencies": {}
+}
